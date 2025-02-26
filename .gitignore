@@ -1,0 +1,9 @@
+public/
+*.config
+*.json
+*.js
+
+backend/venv/__pycache__
+backend/venv/Include
+backend/venv/Lib
+backend/venv/Scripts

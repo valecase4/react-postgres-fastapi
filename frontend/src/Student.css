@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    padding: 30px;
+}
+
+.studentDiv {
+    border: 1px solid gray;
+    padding: 20px;
+    display: flex;
+}
+
+.studentDiv > div {
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
